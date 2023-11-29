@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Coley Tollison
 -  I'm a student at Southern New Hamshshire University and I am working on a degree in cyber security.
-- I am new to coding with Python and am looking to expand my knowledge and gain experiance.
+- I am new to coding with Python and am looking to expand my knowledge and gain experience.
 - 📫 How to reach me -- coley.tollison@protonmail.com
 
 <!---
